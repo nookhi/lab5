@@ -1,0 +1,14 @@
+C:\Users\dvoeg\source\repos\client2\client2\bin\Debug\client2.exe.config
+C:\Users\dvoeg\source\repos\client2\client2\bin\Debug\client2.exe
+C:\Users\dvoeg\source\repos\client2\client2\bin\Debug\client2.pdb
+C:\Users\dvoeg\source\repos\client2\client2\obj\Debug\client2.csprojAssemblyReference.cache
+C:\Users\dvoeg\source\repos\client2\client2\obj\Debug\client2.Form1.resources
+C:\Users\dvoeg\source\repos\client2\client2\obj\Debug\client2.Properties.Resources.resources
+C:\Users\dvoeg\source\repos\client2\client2\obj\Debug\client2.csproj.GenerateResource.cache
+C:\Users\dvoeg\source\repos\client2\client2\obj\Debug\client2.csproj.CoreCompileInputs.cache
+C:\Users\dvoeg\source\repos\client2\client2\obj\Debug\client2.exe
+C:\Users\dvoeg\source\repos\client2\client2\obj\Debug\client2.pdb
+C:\Users\dvoeg\source\repos\client2\client2\obj\Debug\client2.Form2.resources
+C:\Users\dvoeg\source\repos\client2\client2\obj\Debug\client2.Form3.resources
+C:\Users\dvoeg\source\repos\client2\client2\obj\Debug\client2.Form4.resources
+C:\Users\dvoeg\source\repos\client2\client2\obj\Debug\client2.Form5.resources
